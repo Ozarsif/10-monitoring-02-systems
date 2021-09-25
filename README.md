@@ -32,7 +32,8 @@ root@ubuntu:/home/sergey/netology/sandbox# curl http://localhost:3010
 <html>
 ![image](https://user-images.githubusercontent.com/67621467/134769693-ae5f0ee1-8b57-4527-978a-086901fcf1ba.png)
 
-*я не нашел кнопок и полей из ДЗ, возможно что-то успели изменить. в целом интерфейс выглядит так:*
+*я не нашел кнопок и полей из ДЗ, возможно что-то успели изменить. в целом интерфейс выглядит так:*  
   ![image](https://user-images.githubusercontent.com/67621467/134770023-0b394a30-4aa0-4873-befd-479cd74418e6.png)
 
   
+![image](https://user-images.githubusercontent.com/67621467/134770328-afc91ec5-5abd-45a2-9946-481d06e395a7.png)
